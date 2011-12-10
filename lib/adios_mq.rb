@@ -1,3 +1,4 @@
+require "adios_mq/version"
 require 'adios_mq/queue'
 
 module AdiosMQ
